@@ -6,3 +6,7 @@
 postgres:alpine
 
 xhofe/alist:latest
+
+gitea/gitea:latest
+
+mlikiowa/napcat-docker:latest
