@@ -10,3 +10,5 @@ xhofe/alist:latest
 gitea/gitea:latest
 
 mlikiowa/napcat-docker:latest
+
+xhofe/alist-aria2
