@@ -12,3 +12,5 @@ gitea/gitea:latest
 mlikiowa/napcat-docker:latest
 
 xhofe/alist-aria2
+
+mzz2017/v2raya
